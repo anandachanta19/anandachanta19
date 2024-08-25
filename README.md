@@ -21,10 +21,14 @@ I'm a passionate developer with experience in web development, software engineer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandachanta19&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anandachanta19&theme=radical&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandachanta19&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </div>
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anandachanta19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
