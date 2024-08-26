@@ -66,7 +66,7 @@ I'm a passionate developer with experience in web development, software engineer
 [![Gmail](https://img.shields.io/badge/Gmail-anandachanta19@gmail.com-red?style=flat&logo=gmail)](mailto:anandachanta19@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manichandra3&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anandachanta19&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ---
 
 Thanks for stopping by! Feel free to reach out or check out my repositories! 😊
