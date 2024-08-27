@@ -62,7 +62,7 @@ I'm a passionate developer with experience in web development, software engineer
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20A%20Chanta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anandachanta19/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Achanta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anandachanta19/)
 [![Gmail](https://img.shields.io/badge/Gmail-anandachanta19@gmail.com-red?style=flat&logo=gmail)](mailto:anandachanta19@gmail.com)
 
 ---
