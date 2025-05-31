@@ -1,71 +1,50 @@
-# Hi there, I'm Anand Achanta! 👋
+# Hello there, I'm Anand Achanta
 
-[![GitHub followers](https://img.shields.io/github/followers/anandachanta19?label=Follow&style=social)](https://github.com/anandachanta19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Achanta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anandachanta19/)
-[![Gmail](https://img.shields.io/badge/Gmail-anandachanta19@gmail.com-red?style=flat&logo=gmail)](mailto:anandachanta19@gmail.com)
+I'm a passionate student in the Computer Science field with hands-on experience in building full-stack applications. Currently, I am expanding my expertise in Artificial Intelligence and Machine Learning, while actively adopting cloud technologies and exploring cybersecurity. I enjoy solving real-world problems and am always eager to learn and collaborate on innovative projects.
 
----
+## Technical Skills & Expertise
 
-## 🚀 About Me
+### Languages
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" width="40" height="40"/>
+</p>
 
-I'm a passionate developer with experience in web development, software engineering, and open source contributions. I enjoy working on projects that challenge me to grow and learn something new every day.
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="Django" width="40" height="40"/>
+</p>
 
-- 🔭 Currently working on Data Science, Machine Learning and AWS.
-- 🌱 Learning more about **Data Structures and Algorithms**.
-- 💬 Ask me about **Spring Framework, Python, and Full-Stack Development**.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a music lover and love exploring new tracks!
+### AI & ML
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="PyTorch" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/223639797-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="NumPy" width="40" height="40"/>
+</p>
 
----
+### Cloud & DevOps
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-8039-9bfc7b8b774b.png" alt="GitHub" width="40" height="40"/>
+</p>
 
-## 📊 GitHub Stats
+### Databases
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="40" height="40"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anandachanta19&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandachanta19&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
-</div>
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anandachanta19&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🛠️ My Skills
-
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-- [**HoverOn**](https://github.com/anandachanta19/HoverOn) - Group music management system built with Spring, HTML, CSS, JavaScript, and MySQL.
-- [**Stock News Alert System**](https://github.com/anandachanta19/Stock-News-Alert-System) - A Python-based news alert system using APIs.
-- [**Vlog-Blog**](https://github.com/anandachanta19/Vlog-Blog) - A Python, Flask, and PostgreSQL project for managing blogs and vlogs.
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Achanta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anandachanta19/)
-[![Gmail](https://img.shields.io/badge/Gmail-anandachanta19@gmail.com-red?style=flat&logo=gmail)](mailto:anandachanta19@gmail.com)
-
----
-[![](https://visitcount.itsvg.in/api?id=anandachanta19&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
----
-
-Thanks for stopping by! Feel free to reach out or check out my repositories! 😊
+### Tools & Platforms
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="40" height="40"/>
+</p>
